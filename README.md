@@ -34,6 +34,25 @@ their shares and hype those splits in breathless press releases treat their
 investors like dolts. Companies should buy back their shares when they are cheap
 not when they are at or near record highs.
 
+The more seriously investors take the per-share earnings figures as published,
+the more necessary it is for them to be on their guard against accounting
+factors of one kind and another that may impair the true comparability of the 
+numbers. We have mentioned three sorts of these factors: the use of special
+charges, which may never be reflected in the per-share earnings, the reduction
+in the normal income-tax deduction by reason of past losses, and the dilution
+factor implicit in the existence of substantial amounts of convertible 
+securities or warrants.1 A fourth item that has had a significant effect on
+reported earnings in the past is the method of treating depreciation: chiefly 
+as between the straight-line and the accelerated schedules. Still another factor,
+important at times, is the choice between charging off research and development
+costs in the year they are incurred or amortizing them over a period of years.
+Finally, let us mention the choice between the FIFO (first-in-first-out) and 
+LIFO (last-in-first-out) methods of valuing inventories.
+
+All this may be confusing and wearisome. Corporate accounting is often tricky;
+security analysis can be complicated; stock valuations are really dependable 
+only in exceptional cases.
+
 In investing, as with life in general, ultimate victory usually goes to the 
 doers, not to the talkers.
 
